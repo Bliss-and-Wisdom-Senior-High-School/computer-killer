@@ -1,4 +1,4 @@
-# 破解EVO
+# 破解EVO Class
 
 ## 工作管理員
 1. "win + r"
